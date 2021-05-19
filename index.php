@@ -1,3 +1,5 @@
+<!--PHP : array di domande e risposte-->
+
 <?php
 
     $faqs = [
@@ -54,8 +56,7 @@
 
 ?>
 
-
-
+<!--HTML-->
 <!DOCTYPE html>
 <html lang="en">
 <head>
