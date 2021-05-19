@@ -8,6 +8,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    color: #3c4043;
 }
 
 
@@ -58,4 +59,23 @@ nav ul li a {
 hr {
     color: #cbcbcb;
     margin-top: 15px;
+}
+
+/*MAIN*/
+
+.wrapper {
+    width: 60%;
+    margin: auto;
+
+}
+
+.wrapper h2 {
+    padding-top : 80px;
+    font-weight: 400;
+}
+
+.wrapper p {
+    font-size: 14px;
+    padding: 20px 0;
+    line-height: 26px;
 }
