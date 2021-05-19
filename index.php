@@ -74,15 +74,17 @@
 </head>
 <body>
 
+    <!--Header-->
     <header>
+        <!--Logo-->
         <div class="logo">
             <img src="img/google.png" alt="">
 
             <h2>Privacy e termini</h2>
         </div>
+        <!--Fine Logo-->
 
-        
-
+        <!--Navbar-->
         <nav>
             <ul>
                 <li>
@@ -102,12 +104,16 @@
                 </li>
             </ul>
         </nav>
+        <!--Fine Navbar-->
 
         <hr>
     </header>
 
-    <main>
+    <!--Fine Header-->
 
+    <!--Main-->
+    <main>
+        <!--Wrapper-->
         <div class="wrapper">
             <?php foreach($faqs as $value) { ?>
 
@@ -117,6 +123,7 @@
             <?php } ?>
         </div>
     </main>
+    <!--Fine Main-->
     
 </body>
 </html>
